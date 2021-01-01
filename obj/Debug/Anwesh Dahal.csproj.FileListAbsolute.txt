@@ -1,0 +1,20 @@
+/Users/kumardahal/Downloads/assigment/bin/Debug/assigment 1.exe.config
+/Users/kumardahal/Downloads/assigment/bin/Debug/assigment 1.exe
+/Users/kumardahal/Downloads/assigment/bin/Debug/assigment 1.pdb
+/Users/kumardahal/Downloads/assigment/obj/Debug/Anwesh Dahal.csprojAssemblyReference.cache
+/Users/kumardahal/Downloads/assigment/obj/Debug/Anweshdahal.Form1.resources
+/Users/kumardahal/Downloads/assigment/obj/Debug/assigment_1.Properties.Resources.resources
+/Users/kumardahal/Downloads/assigment/obj/Debug/Anwesh Dahal.csproj.GenerateResource.cache
+/Users/kumardahal/Downloads/assigment/obj/Debug/Anwesh Dahal.csproj.CoreCompileInputs.cache
+/Users/kumardahal/Downloads/assigment/obj/Debug/assigment 1.exe
+/Users/kumardahal/Downloads/assigment/obj/Debug/assigment 1.pdb
+/Users/kumardahal/Desktop/assigment/bin/Debug/assigment 1.exe.config
+/Users/kumardahal/Desktop/assigment/bin/Debug/assigment 1.exe
+/Users/kumardahal/Desktop/assigment/bin/Debug/assigment 1.pdb
+/Users/kumardahal/Desktop/assigment/obj/Debug/Anwesh Dahal.csprojAssemblyReference.cache
+/Users/kumardahal/Desktop/assigment/obj/Debug/Anweshdahal.Form1.resources
+/Users/kumardahal/Desktop/assigment/obj/Debug/assigment_1.Properties.Resources.resources
+/Users/kumardahal/Desktop/assigment/obj/Debug/Anwesh Dahal.csproj.GenerateResource.cache
+/Users/kumardahal/Desktop/assigment/obj/Debug/Anwesh Dahal.csproj.CoreCompileInputs.cache
+/Users/kumardahal/Desktop/assigment/obj/Debug/assigment 1.exe
+/Users/kumardahal/Desktop/assigment/obj/Debug/assigment 1.pdb
